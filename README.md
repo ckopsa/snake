@@ -1,3 +1,5 @@
+![snake](./images/snake.gif)
+
 # Setup
 
 ```shell
