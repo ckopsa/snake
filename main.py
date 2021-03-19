@@ -124,8 +124,6 @@ def main():
         snake.draw(surface)
         food.draw(surface)
         screen.blit(surface, (0, 0))
-        # text = myfont.render(f"Score {score}", 1, (0, 0, 0))
-        # screen.blit(text, (5, 10))
         pygame.display.update()
 
 
